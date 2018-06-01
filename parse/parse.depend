@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527893312 source:c:\users\alumno\desktop\nueva carpeta\clase-01.06.18\parse\main.c
+	<stdio.h>
+	<stdlib.h>
+

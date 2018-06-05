@@ -6,7 +6,8 @@
 
 int employee_compare(void* pEmployeeA,void* pEmployeeB)
 {
-    return 0;
+
+    return 0;//1
 }
 
 

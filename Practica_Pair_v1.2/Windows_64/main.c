@@ -64,7 +64,33 @@ int main()
         printf("%d--%s\n",aux->id,aux->name);
 
     }
-    al_sort()//para irdenar
+    al_sort(listaEmpleados,employee_compare,1);//1acendente 0 desendente//para irdenar
+        for(int i=0;i<al_len(listaEmpleados);i++)
+    {
+        aux =(Employee*)al_get(listaEmpleados,i);
+        printf("%d--%s\n",aux->id,aux->name);
+
+    }
 //employee_compare(): DElegado
     return 0;
 }
+
+
+/**
+
+
+5 remove
+6sublist o list
+
+pilas
+platos
+push---se mete en el medio
+set---guarda lugar
+pop--- saca de la lista, no lo saca del todo
+
+
+
+
+
+
+*/

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1528475563 source:c:\users\pc2\desktop\git\ejemploscomentadosdepunteros\22_ejemplo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1528483314 source:c:\users\pc2\desktop\git\ejemploscomentadosdepunteros\22_ejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+
+1528475563 c:\users\pc2\desktop\git\ejemploscomentadosdepunteros\22_ejemplo\lib.h
+

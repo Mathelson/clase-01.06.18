@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1528483711 source:c:\users\pc2\desktop\git\ejemploscomentadosdepunteros\23_ejemplo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1528490079 source:c:\users\pc2\desktop\git\ejemploscomentadosdepunteros\23_ejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"People.h"
+
+1528483711 c:\users\pc2\desktop\git\ejemploscomentadosdepunteros\23_ejemplo\lib.h
+
+1528490079 c:\users\pc2\desktop\git\ejemploscomentadosdepunteros\23_ejemplo\people.h
+

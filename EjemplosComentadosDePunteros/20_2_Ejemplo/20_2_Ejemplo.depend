@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528422702 source:c:\users\user\desktop\20_2_ejemplo\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

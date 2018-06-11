@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1528729440 source:c:\users\pc2\desktop\nueva carpeta (2)\24_ejemplo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

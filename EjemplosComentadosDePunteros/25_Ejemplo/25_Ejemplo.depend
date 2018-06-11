@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1528739788 source:c:\users\pc2\desktop\nueva carpeta (2)\25_ejemplo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1528739747 source:c:\users\pc2\desktop\nueva carpeta (2)\25_ejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"People.h"
+
+1528739747 c:\users\pc2\desktop\nueva carpeta (2)\25_ejemplo\lib.h
+
+1528739747 c:\users\pc2\desktop\nueva carpeta (2)\25_ejemplo\people.h
+
+1528739747 source:c:\users\pc2\desktop\nueva carpeta (2)\25_ejemplo\people.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"people.h"
+

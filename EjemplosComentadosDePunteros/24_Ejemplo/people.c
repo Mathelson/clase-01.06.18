@@ -55,7 +55,7 @@ int index=0;//cantidad de personas ingresadas*/
  * \param Person* p puntero a tipo Person donde se guardarán los datos
  * \return void
  */
-void list_printPerson(Person* p)
+void list_printPerson(Person* p)//
 {
     printf("Nombre:\t%s \tedad:%d\r\n",p->name,p->age);
 }

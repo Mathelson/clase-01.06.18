@@ -23,12 +23,6 @@ typedef struct S_Person Person;*/
 
 int main(int argc, char *argv[])
 {
-
-
-
-
-
-
     list_initPeopleList();/**INICIALIZAMOS LAS VARIABLES GLOBALES*/
 /**CREAMOS UNA ESTRUCTURA DEL TIPO PERSONA*/
     Person* p = list_newPerson();

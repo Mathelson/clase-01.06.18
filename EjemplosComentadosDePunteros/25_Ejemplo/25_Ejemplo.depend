@@ -22,3 +22,26 @@
 	<string.h>
 	"people.h"
 
+1528739790 source:c:\users\alumno\desktop\11.06.18clase\ejemploscomentadosdepunteros\25_ejemplo\lib.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1528743304 source:c:\users\alumno\desktop\11.06.18clase\ejemploscomentadosdepunteros\25_ejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lib.h"
+	"People.h"
+
+1528739748 c:\users\alumno\desktop\11.06.18clase\ejemploscomentadosdepunteros\25_ejemplo\lib.h
+
+1528743304 c:\users\alumno\desktop\11.06.18clase\ejemploscomentadosdepunteros\25_ejemplo\people.h
+
+1528743304 source:c:\users\alumno\desktop\11.06.18clase\ejemploscomentadosdepunteros\25_ejemplo\people.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"people.h"
+
